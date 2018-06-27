@@ -74,6 +74,8 @@ void loop() {
 
 Describe what should happen when everything works properly here.
 
+[Hello World](Hello world.jpg)
+
 ## FAQ
 
 Q1. Some general Arduino Problems/FAQ/Tips
